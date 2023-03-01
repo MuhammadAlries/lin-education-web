@@ -86,6 +86,7 @@ body {
     height: 100px;
     border-radius: 30%;
     padding: 10px;
+    margin-left: 1790px;
 }
 
 .welogo {
@@ -116,12 +117,35 @@ body {
 .home1tanitim {
     text-align: right;
     margin-right: 10px;
-    margin-bottom: 100px;
+    margin-trim: 110px;
+    font-size: 20px;
 }
 
 .home1baslik {
     color: darkcyan;
     text-align: right;
     margin-right: 140px;
-    font-size: 25px;
+    font-size: 26px;
+}
+
+.produconteiner {
+    display: flex;
+    width: 2000px;
+    height: 1000px;
+    flex-direction: column;
+}
+
+.prdflx1 {
+    flex: 50%;
+    background-color: bisque;
+    border-radius: 6%;
+}
+
+.prdflx2 {
+    flex: 50%;
+}
+
+.baslik2 {
+    color: teal;
+    font-size: 18px;
 }
