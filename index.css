@@ -1,0 +1,127 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 1920px;
+    height: 70px;
+    text-decoration: none;
+}
+
+.contaklogo {
+    background-color: rgb(243, 243, 245);
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+    border-radius: 30%;
+}
+
+.menu {
+    flex: 85%;
+}
+
+.contact {
+    flex: 15%;
+    background-color: rgb(57, 147, 153);
+    display: flex;
+    flex-direction: row;
+    border-radius: 20px;
+}
+
+body {
+    background-color: rgb(274, 250, 270);
+    margin: 0;
+}
+
+.logobutton {
+    flex: 20%;
+}
+
+.produc {
+    flex: 20%;
+    color: brown;
+    text-align: center;
+    margin-top: 2%;
+    text-decoration: none;
+}
+
+.we {
+    flex: 20%;
+    margin-top: 2%;
+    text-align: center;
+}
+
+.contak {
+    flex: 20%;
+    margin-top: 2%;
+    text-align: center;
+}
+
+.mm1 {
+    text-decoration: none;
+    color: gold;
+    font-size: 25px;
+}
+
+.mm2 {
+    text-decoration: none;
+    color: gold;
+    font-size: 25px;
+}
+
+.mm3 {
+    text-decoration: none;
+    color: gold;
+    font-size: 25px;
+}
+
+.baslik {
+    font-size: 25px;
+    text-align: right;
+    color: green;
+    margin-right: 120px;
+}
+
+.produclogo {
+    background-color: rgb(243, 243, 245);
+    width: 100px;
+    height: 100px;
+    border-radius: 30%;
+    padding: 10px;
+}
+
+.welogo {
+    background-color: rgb(243, 243, 245);
+    width: 100px;
+    height: 100px;
+    border-radius: 30%;
+    padding: 10px;
+    margin-left: 840px;
+}
+
+.conteiner {
+    width: 1366px;
+    height: 600px;
+    display: flex;
+}
+
+.flex1 {
+    width: 70%;
+    height: 100%;
+}
+
+.flex2 {
+    width: 30%;
+    height: 100%;
+}
+
+.home1tanitim {
+    text-align: right;
+    margin-right: 10px;
+    margin-bottom: 100px;
+}
+
+.home1baslik {
+    color: darkcyan;
+    text-align: right;
+    margin-right: 140px;
+    font-size: 25px;
+}
